@@ -1,4 +1,4 @@
-require 'synapse_fi'
+require 'synapse_api'
 
 
 module Synapse
@@ -403,6 +403,3 @@ module Synapse
         end
     end
 end
-
-
-
