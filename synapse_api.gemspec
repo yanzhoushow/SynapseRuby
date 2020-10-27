@@ -8,9 +8,9 @@ Gem::Specification.new do |s|
   s.version  = Synapse::VERSION
   s.date     = Date.today.to_s
   s.author  = ['Synapse, Trim']
-  s.email    = 'yan@asktrim.com'
+  s.email    = 'eng@asktrim.com'
   s.summary  = 'SynapseFI v3 API Library'
-  s.homepage = 'https://asktrim.com'
+  s.homepage = 'https://www.asktrim.com'
   s.license  = 'MIT'
 
   s.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
