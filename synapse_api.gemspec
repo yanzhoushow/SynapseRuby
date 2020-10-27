@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.name     = 'synapse_api'
   s.version  = Synapse::VERSION
   s.date     = Date.today.to_s
-  s.author  = ['Yan Zhou']
+  s.author  = ['Synapse, Trim']
   s.email    = 'yan@asktrim.com'
   s.summary  = 'SynapseFI v3 API Library'
   s.homepage = 'https://asktrim.com'
